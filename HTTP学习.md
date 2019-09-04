@@ -38,7 +38,7 @@ HTTP是媒体独立的：这意味着，只要客户端和服务器知道如何�
 HTTP是无状态：HTTP协议是无状态协议。无状态是指协议对于事务处理没有记忆能力。缺少状态意味着如果后续处理需要前面的信息，则它必须重传，这样可能导致每次连接传送的数据量增大。另一方面，在服务器不需要先前信息时它的应答就较快。
 ```
 以下图表展示了HTTP协议通信流程：
-![HTTP通信流程]()
+![HTTP通信流程](https://github.com/swordboyASS/Building-a-website/blob/master/Picture/process.png)
 
 
 
@@ -47,8 +47,7 @@ HTTP是无状态：HTTP协议是无状态协议。无状态是指协议对于事
 :arrow_double_up:<a href="#title">返回目录</a>
 
 ### HTTP消息结构
-
-
+[HTTP消息结构](https://www.runoob.com/http/http-messages.html)
 
 
 
